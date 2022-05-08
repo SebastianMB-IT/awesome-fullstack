@@ -1,6 +1,16 @@
 # Awesome Full-stack
 
-## Javascript
+## [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=it)
+
+**Front-end frameworks**
+
+- [React](https://it.reactjs.org/)
+- [Vue](https://vuejs.org/)
+- [Angular](https://angular.io/)
+
+**Site builders**
+
+- [Astro](https://astro.build/)
 
 **Testing libraries**
 
@@ -12,7 +22,9 @@
 
 - [Webpack](https://webpack.js.org/)
 
-## Go
+## [TypeScript](https://www.typescriptlang.org/)
+
+## [Go](https://go.dev/)
 
 **HTTP frameworks**
 
