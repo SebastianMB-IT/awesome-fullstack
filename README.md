@@ -16,7 +16,7 @@
 
 | Unit        | Integration   | E2E  |
 | ----------- |:-------------:| --------:|
-| Jest        | Jest          | Cypress
+| [Jest](https://jestjs.io/docs/expect)        | [Jest](https://jestjs.io/docs/expect)          | [Cypress](https://www.cypress.io/)
 
 **Module bundlers**
 
