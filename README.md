@@ -22,6 +22,12 @@
 
 - [Webpack](https://webpack.js.org/)
 
+**JS compilers**
+
+- [Babel](https://babeljs.io/)
+
+--------------------------------------
+
 ## [TypeScript](https://www.typescriptlang.org/)
 
 ## [Go](https://go.dev/)
