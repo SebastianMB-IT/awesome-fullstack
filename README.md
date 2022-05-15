@@ -23,6 +23,13 @@
 **Module bundlers**
 
 - [Webpack](https://webpack.js.org/)
+  | Plugins | |
+  | --------------- | -------- |
+  |[html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)|[eslint-webpack-plugin](https://github.com/webpack-contrib/eslint-webpack-plugin) |
+
+  | Loaders |
+  | ------- |
+  |[babel-loader](https://github.com/babel/babel-loader) |
 
 **JS compilers**
 
