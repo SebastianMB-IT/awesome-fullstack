@@ -7,6 +7,10 @@
 **Front-end frameworks**
 
 - [React](https://it.reactjs.org/)
+  | Libraries |
+  | ------- |
+  |[react-router](https://reactrouter.com/) |
+
 - [Vue](https://vuejs.org/)
 - [Angular](https://angular.io/)
 
