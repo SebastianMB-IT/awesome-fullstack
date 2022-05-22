@@ -41,6 +41,10 @@
 
 --------------------------------------
 
+## [Node.js](https://nodejs.org/it/)
+
+- [Fastify](https://github.com/fastify/fastify)
+
 ## [TypeScript](https://www.typescriptlang.org/)
 
 ## [Go](https://go.dev/)
