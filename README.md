@@ -45,6 +45,8 @@
 
 - [Fastify](https://github.com/fastify/fastify)
 
+- [Express](https://github.com/fastify/fastify)
+
 ## [TypeScript](https://www.typescriptlang.org/)
 
 ## [Go](https://go.dev/)
