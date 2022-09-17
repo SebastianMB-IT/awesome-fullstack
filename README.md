@@ -49,6 +49,21 @@
 
 ## [TypeScript](https://www.typescriptlang.org/)
 
+**Documentation**
+
+- [TSDoc](https://tsdoc.org/)
+
+## [PHP](https://www.php.net/)
+
+**Frameworks**
+
+- [Slim](https://www.slimframework.com/)
+- [Symfony](https://symfony.com/)
+
+**Testing**
+
+- [PHPUnit](https://phpunit.de/)
+
 ## [Go](https://go.dev/)
 
 **HTTP frameworks**
