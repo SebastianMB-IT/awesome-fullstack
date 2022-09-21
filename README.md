@@ -35,6 +35,8 @@
   | ------- |
   |[babel-loader](https://github.com/babel/babel-loader) |
 
+- [Rollup](https://rollupjs.org/guide/en/)
+
 **JS compilers**
 
 - [Babel](https://babeljs.io/)
